@@ -1,4 +1,9 @@
-Raspberry Pi+Ruby 準備
+---
+layout: default  
+title: Raspberry Pi+Ruby 準備
+---
+
+# Raspberry Pi+Ruby 準備
 
 ## 開発環境 足りないもの追加
 
