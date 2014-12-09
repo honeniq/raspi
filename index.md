@@ -1,12 +1,12 @@
 ---
-layout: default  
+layout: index  
 title : Raspiトップページ
 ---
 
 ### ドキュメント
 
-* [Raspberry Pi+Ruby 準備](/raspi-ruby-prepare.html)
+* [Raspberry Pi+Ruby 準備](/posts/raspi-ruby-prepare.html)
 
 ### ブックマーク
 
-* [Ruby関係ブックマーク](/bookmark.html)
+* [Ruby関係ブックマーク](/posts/bookmark.html)
