@@ -3,11 +3,9 @@ layout: default
 title: Raspberry Pi+Ruby 準備
 ---
 
-# Raspberry Pi+Ruby 準備
+### 開発環境 足りないもの追加
 
-## 開発環境 足りないもの追加
-
-### ruby-dev
+#### ruby-dev
 
 gemのビルドに必要。
 
@@ -15,7 +13,7 @@ gemのビルドに必要。
 $ sudo apt-get install ruby-dev
 ```
 
-### Vim
+#### Vim
 
 Raspbianに最初から入っているviはtinyvimというショボいVimなので本物を入れる。
 
@@ -24,7 +22,7 @@ $ sudo apt-get install vim
 ```
 
 
-### screen
+#### screen
 
 ターミナルで複数画面を使えるようにする。
 
@@ -40,9 +38,9 @@ $ sudo apt-get install screen
 
 ---
 
-## 必須gemを入れる
+### 必須gemを入れる
 
-### Bundler
+#### Bundler
 
 [Bundler](http://bundler.io/)
 
@@ -54,7 +52,7 @@ $ sudo gem install bundler --no-rdoc --no-ri
 ```
 
 
-### Pry
+#### Pry
 
 [pry/pry](https://github.com/pry/pry)
 
