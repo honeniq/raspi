@@ -5,4 +5,8 @@ title : Raspiトップページ
 
 ### ドキュメント
 
-* [Raspberry Pi+Ruby 準備](http://honeniq.github.io/raspi/raspi-ruby-prepare.html)
+* [Raspberry Pi+Ruby 準備](/raspi-ruby-prepare.html)
+
+### ブックマーク
+
+* [Ruby関係ブックマーク](/bookmark.html)
